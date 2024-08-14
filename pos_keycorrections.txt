@@ -1,0 +1,18 @@
+REMOVE the category list.
+
+Product List
+1. add a "Sort" button for diff product category .
+2. REMOVE duplication of any products.
+ (if product is existing already in the product list, add the new quantity of that product to it, "quantity +" butn).
+3. make sure the product ID is randomized.
+
+Sales List
+1. (display/ print table) - generate report for the sales 
+
+Admin Panel
+(example) Home › Authentication and Authorization › Users › mingo_
+under permissions
+1. REMOVE Superstatus status.
+2. automatic active for every user (remove check button for the permission on Active).
+3. REMOVE "User permissions" . User permission should be automatically. 
+4. make a table (username, time last login)
